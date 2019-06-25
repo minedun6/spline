@@ -1,0 +1,18 @@
+/***
+Rounded corners reset
+***/
+
+/* Reset rounded corners for all elements */
+body {
+	color: red !important;
+}
+
+/* except below bootstrap elements */
+
+.img-circle {
+    border-radius: 50% !important;
+}
+
+.img-rounded {
+    border-radius: 6px !important;
+}
